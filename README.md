@@ -10,4 +10,4 @@
 
 ## Connect with me:
 
-<img aling="left" alt="LinkedIn | sandeep" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[https://www.linkedin.com/in/sandeep-sahani-883398220/]
+[<img aling="left" alt="LinkedIn | sandeep" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/sandeep-sahani-883398220/)
