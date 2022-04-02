@@ -1,4 +1,7 @@
+<p align-"center">
 # Hey There, I'm Sandeep Sahani
+
+<p/>
 
 ## I'm developer, Tech enthusiast 
 
