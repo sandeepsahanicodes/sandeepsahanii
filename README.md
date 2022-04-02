@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey There, I'm Sandeep Sahani<h1/>
+# Hey There, I'm Sandeep Sahani
 
 ## I'm developer, Tech enthusiast 
 
