@@ -1,7 +1,7 @@
 
 # Hey There, I'm Sandeep Sahani
 
-## I'm developer, Tech enthusiast 
+## I'm developer
 
 - 👨‍💻 A computer science undergraduate.
 - 👀 I’m interested in iOS development and computer programming.
