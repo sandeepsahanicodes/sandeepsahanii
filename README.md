@@ -10,4 +10,5 @@
 
 ## Connect with me:
 
-#### [Instagram](https://www.instagram.com/sandeepsahani76j/) #### | #### [Instagram](https://www.instagram.com/sandeepsahani76j/) ####
+#### [-> Linkedin](https://www.linkedin.com/feed/) ####
+#### [-> Instagram](https://www.instagram.com/sandeepsahani76j/) ####
